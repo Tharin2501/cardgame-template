@@ -25,7 +25,7 @@ NPM
 
 
   ```typescript
-  import {Deck} from cardgame-template/dist";
+  import {Deck} from "cardgame-template";
 
   const Example = () => {
   
