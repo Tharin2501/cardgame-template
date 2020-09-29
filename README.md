@@ -12,12 +12,15 @@ Bootstraped with the CRA template so that the user can add their own frontend
 
 ### Installation 
 
-
 Yarn
+
+`$ yarn create react-app my-app --template typescript`
 
 `$ yarn install cardgame-template`
 
 NPM
+ 
+`$ npx create-react-app my-app --template typescript`
  
 `$ npm install cardgame-template`
 
