@@ -1,7 +1,7 @@
 {
   "name": "cardgame-template",
-  "version": "1.0.1",
-  "description": "A template for creating any type of card game you want ",
+  "version": "1.0.3",
+  "description": "A template for creating any type of card game you want",
   "author": "Tharin2501",
   "license": "MIT",
   "main": "dist/index.js",
@@ -13,7 +13,6 @@
     "build": "rollup -c",
     "start": "rollup -c -w"
   },
-  "dependencies": {},
   "peerDependencies": {
     "react": "^16.8.0",
     "react-dom": "^16.8.0"
@@ -27,6 +26,7 @@
     "react-dom": "^16.12.0",
     "rollup": "^1.29.0",
     "rollup-plugin-typescript2": "^0.25.3",
+    "rollup-plugin-sass": "^1.2.2",
     "typescript": "^2.8.3"
   },
   "files": [
@@ -41,6 +41,8 @@
     "texas hold em",
     "typescript",
     "react",
+    "scss",
+    "frontend",
     "cra",
     "npm",
     "yarn"

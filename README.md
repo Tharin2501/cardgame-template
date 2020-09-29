@@ -37,9 +37,11 @@ NPM
     game.dealCards(); // deal the cards equally to all players
     
        return(
-            <div>
+           
+            <div className="base-card">
                 ...
             </div>
+           
         )
   }
   ```                        

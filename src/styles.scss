@@ -1,0 +1,23 @@
+.base-card {
+  --bg-color: #f3f3f3;
+  --base-color: #666;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: 70px;
+  margin: 10% auto;
+  border: 3px solid var(--base-color);
+  border-radius: 5px;
+  color: var(--base-color);
+  background-color: var(--bg-color);
+  cursor: pointer;
+  overflow: hidden;
+
+  &:hover {
+    color: var(--bg-color);
+    background-color: var(--base-color);
+    border-color: var(--bg-color);
+  }
+}
