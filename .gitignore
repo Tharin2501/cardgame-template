@@ -46,3 +46,7 @@ typings/
 
 # generate output
 dist
+
+#storybook
+.storybook
+storybook-static
