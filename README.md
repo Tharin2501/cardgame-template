@@ -3,7 +3,7 @@ A template for creating card games.
 Implemented using TypeScript.
 
 Contains boilerplate code for creating any type of card game you want. 
-Bootstraped with the CRA template so that the user can add their own frontend
+Bootstraped with the CRA template so that the user can customize
 
 
 ### Requirements
@@ -59,7 +59,7 @@ NPM
 | selectPlayers   | number      | Select amount of players by providing a number as argument. |
 | dealCards       | void        | Deal the cards. 52 cards / number of players.
 
-
-
+---
+#### Card
 ### License
 Source code in this repository is released under [MIT license](/LICENSE.txt)
