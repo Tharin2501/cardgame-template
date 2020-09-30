@@ -50,10 +50,4 @@ dist
 #storybook
 .storybook
 storybook-static
-storybook-static/main.6a59c7063b144f233516.bundle.js
-storybook-static/main.6a59c7063b144f233516.bundle.js.map
-storybook-static/runtime~main.6a59c7063b144f233516.bundle.js
-storybook-static/runtime~main.6a59c7063b144f233516.bundle.js.map
-storybook-static/vendors~main.6a59c7063b144f233516.bundle.js
-storybook-static/vendors~main.6a59c7063b144f233516.bundle.js.LICENSE.txt
-storybook-static/vendors~main.6a59c7063b144f233516.bundle.js.map
+src/stories
