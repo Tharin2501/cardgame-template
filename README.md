@@ -52,6 +52,9 @@ NPM
 ### Storybook
 You can display our package, document and interact with its components with storybook.
 
+Simply clone and install the projects and run the commands.
+
+
 Yarn
 
 `$ yarn build-storybook`
