@@ -48,6 +48,6 @@ typings/
 dist
 
 #storybook
-.storybook
+#.storybook
 storybook-static
-src/stories
+#src/stories
